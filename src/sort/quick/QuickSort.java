@@ -1,6 +1,6 @@
 package sort.quick;
 
-/**
+/** O(nlogn) 0(n^2) 不稳定
  * Created by xuan on 2017/9/12 0012.
  */
 public class QuickSort {
